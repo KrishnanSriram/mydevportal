@@ -16,6 +16,17 @@ export const NavBar = () => {
             </Link>
           </li>
         </ul>
+        <style jsx>{`
+          ul {
+            list-style-type: none;
+            padding: -1;
+          }
+
+          li {
+            display: inline;
+            margin-left: 0.75rem;
+          }
+        `}</style>
       </nav>
     </header>
   );
