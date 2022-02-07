@@ -7,6 +7,10 @@ a {
   text-decoration: none;
 }
 
+article {
+  margin-left: 1.7rem;
+}
+
 a:focus,
 a:hover {
   text-decoration: underline;
