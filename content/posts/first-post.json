@@ -1,0 +1,4 @@
+{
+  "title": "Firs Post Page title",
+  "body": "A simple text loaded from getStaticProps"
+}
